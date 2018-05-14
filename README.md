@@ -1,7 +1,7 @@
 # SpringBoot_RPC_Thrift
 
 #### 项目介绍
-该Repo是我的博文[《RPC框架实践之：Apache Thrift》]()对应的实践代码，欢迎大家star和fork
+该Repo是我的博文[《RPC框架实践之：Apache Thrift》](https://www.jianshu.com/p/52fa63b222ac)对应的实践代码，欢迎大家star和fork
 
 ---
 
